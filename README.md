@@ -1,2 +1,0 @@
-# MyCodes
-things i need
