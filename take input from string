@@ -1,0 +1,5 @@
+istringstream iss(s);
+    string word;
+    while (iss >> word) {
+
+}
