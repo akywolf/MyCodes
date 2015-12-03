@@ -1,5 +1,6 @@
-istringstream iss(s);
+// steam is the name of string stream and s is the name of the string
+istringstream steam(s);
     string word;
-    while (iss >> word) {
+    while (steam >> word){
 
 }
