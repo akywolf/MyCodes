@@ -1,0 +1,5 @@
+bool pal(str str1){
+    string s = str1;
+    reverse(s.begin(),s.end());
+    return s==str;
+}
